@@ -17,24 +17,6 @@
       "body": "Blog body 1",
       "author": "alex",
       "id": 3
-    },
-    {
-      "title": "New blog title",
-      "body": "New blog body",
-      "author": "alex",
-      "id": 4
-    },
-    {
-      "title": "Test123",
-      "body": "test123",
-      "author": "alex",
-      "id": 5
-    },
-    {
-      "title": "Blog title 1",
-      "body": "Blog body 123",
-      "author": "alex",
-      "id": 6
     }
   ]
 }
